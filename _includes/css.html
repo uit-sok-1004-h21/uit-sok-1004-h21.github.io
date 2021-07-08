@@ -24,7 +24,6 @@
   #top-box{
     margin-left: -10px;
     margin-right: -10px;
-    background-color: #{{ site.topbox-farge }};
     padding-bottom: 10px;
     padding-top:70px;
     background-image: url("https://github.com/uit-econ/hovedside-master/blob/main/assets/img/header-bg.jpg?raw=true");
@@ -33,6 +32,10 @@
     background-size: cover; 
 
 }
+  
+  #top-box:after{
+       background-color: #{{ site.topbox-farge }};
+  }
   
   
   #content-box {
