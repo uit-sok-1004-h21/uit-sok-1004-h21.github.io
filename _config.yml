@@ -9,7 +9,7 @@ semester: Høst 2021
 #--------------Avanserte instillinger---------------------------------------------------------------------
 topbox-farge: 00617f
 
-contentbox-farge:
+contentbox-farge: ffff;
 contentbox-skygge: 0px 0px 100px 0px rgba(50, 50, 50, 1)
 
 bakgrunn: https://raw.githubusercontent.com/uit-econ/emneside-alt/main/assets/img/emneside-bakgrunn.jpg
