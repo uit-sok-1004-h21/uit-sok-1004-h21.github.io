@@ -8,12 +8,9 @@
   }
   
   body{
-    background-image: url("{{ site.bakgrunn }}");
-    background-color:#{{ site.bakgrunn-farge }};
+    
     color:#{{ site.sekundaerfarge }};
-    background-position: center; 
-    background-repeat: no-repeat;
-    background-size: cover; 
+   
     font-family: 'Open Sans', sans-serif;
   }
   
@@ -37,6 +34,11 @@
 
   
   #content-box {
+    background-image: url("{{ site.bakgrunn }}");
+    background-color:#{{ site.bakgrunn-farge }};
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
     padding: 20px 50px 20px 50px;
     background-color:#{{ site.contentbox-farge }};
     box-shadow:{{ site.contentbox-skygge }} ;
