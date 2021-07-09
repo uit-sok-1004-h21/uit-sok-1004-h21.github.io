@@ -8,9 +8,12 @@
   }
   
   body{
-    
+    background-image: url("{{ site.bakgrunn }}");
+    background-color:#{{ site.bakgrunn-farge }};
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
     color:#{{ site.sekundaerfarge }};
-   
     font-family: 'Open Sans', sans-serif;
   }
   
@@ -31,16 +34,7 @@
     z-index:0;
      }  
 
- #content-box:before {
-    content: "";
-    background-image: url("{{ site.bakgrunn }}");
-    background-color:#{{ site.bakgrunn-farge }};
-    background-position: center; 
-    background-repeat: no-repeat;
-    background-size: cover; 
-   
-   }
-  
+ 
   
   
   #content-box { 
