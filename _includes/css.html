@@ -31,14 +31,19 @@
     z-index:0;
      }  
 
-
-  
-  #content-box {
+ #content-box:before {
+    content: "";
     background-image: url("{{ site.bakgrunn }}");
     background-color:#{{ site.bakgrunn-farge }};
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover; 
+   
+   }
+  
+  
+  
+  #content-box { 
     padding: 20px 50px 20px 50px;
     background-color:#{{ site.contentbox-farge }};
     box-shadow:{{ site.contentbox-skygge }} ;
