@@ -1,4 +1,5 @@
 {% include top-box.html %}
+{% include navbar.html %}
 <!--For å endre fagtittel, fagundertittel, bakgrunn og fagbilde gjør endringer i config.yml->
 <!--Gjør endringer under her-->
 
