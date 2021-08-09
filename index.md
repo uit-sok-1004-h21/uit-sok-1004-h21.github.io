@@ -1,45 +1,101 @@
-{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
-{% include navbar.html %}
-<!-- Gjør endringer under her -->
+{% include top.html %}
+<!--For å endre fagtittel, fagundertittel, bakgrunn og fagbilde gjør endringer i config.yml->
+<!--Gjør endringer under her-->
+
+## [Tilbake til programsiden](https://uit-econ.github.io/hovedside/){:target="blank"} 
 
 ## Kursbeskrivelse 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.  
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=722326){:target="blank"}
 
-$x\cdot (1+\frac{r}{n})^{T\cdot n}$
+## Faglærerinfo  
 
-## Faglærerinfo
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+[Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
 
-## Pensum
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## Forelesningsplan
-- [Timeplan](timeplan.md)
-- Innhold
-- Ressurser
-  - Pensum
-  - Notater
-  - Video
-  - Øvinger
-  - Kode
-  - Lenke til Jupyter
-  - FAQ
+## Pensum  
 
-## Innlevering
-- Timeplan
-- Oppgaver
-- Ressurser
-- Lenke til innlevering (Wiseflow)
-- Lenke til CV side
-- Lenke til GIT
+[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h21/notebooks){:target="blank"}  
+[Kapittel i DataCamp (se kursplan)](https://learn.datacamp.com/){:target="blank"} 
 
-## FAQ
+DataCamp blir tilgjengelig mandag 16. august.
 
-## Kursevaluering
-- Midtveis
-- Slutt
+## Forkunnskaper  
+Ingen
 
-## Equations
+## Kursplan  
 
-$x\cdot (1+\frac{r}{n})^{T\cdot n}$
+Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjennomgså, og lenker til forelesningsnotater. Timeplanen viser tidspunkt og sted for forelesningene og seminarer.
+
+- [Undervisningsplan](lectures.md){:target="blank"}
+
+- [Timeplan på timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21v&module[]=SOK-1003-1#week-23){:target="blank"}
+
+
+## Kunngjøringer  
+
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24032){:target="blank"}.
+
+
+## Innlevering og eksamen  
+Til hver forelesning vil det være et arbeidskrav, enten på [DataCamp](https://learn.datacamp.com/){:target="blank"} eller GitHub. Disse gis bestått/ikke bestått, og alle arbeidskrav må være bestått for at kurset skal være bestått. 
+
+Karakter A-E, med F som stryk, fastsettes basert på et prosjekt som gjøres i grupper. Følgende inngår i karaktervurderingen:
+
+- Innlevering av prosjektskisse
+- Innlevering av prosjekt
+- Muntlig eksamen
+
+På den muntlige eksamen vil studenten også få spørsmål om pensum generelt. 
+
+
+[Her finner du informasjon om frister og hvordan du leverer arbeidskrav og prosjekt, og dato for muntlig](frister.md){:target="blank"}. 
+
+Merk at prosjektet leveres BÅDE i GitHub og på Wiseflow.
+
+Det er arrangeres ikke kontinuasjonseksamen på emnet.
+
+
+
+## Studentenes evaluering av kurset  
+
+Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Det vil komme mer informasjon om dette senere.
+
+
+[//]: # (## FAQ - Ofte stilte spørsmål og svar)
+
+[//]: # (Se vår [FAQ side](faq.md){:target="blank"}.)
+
+
+
+
+
+<!--Gjør endringer over her-->
+{% include bottom.html %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
