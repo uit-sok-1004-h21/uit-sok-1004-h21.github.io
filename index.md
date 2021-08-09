@@ -1,4 +1,4 @@
-{% include top.html %}
+{% include top-box.html %}
 <!--For å endre fagtittel, fagundertittel, bakgrunn og fagbilde gjør endringer i config.yml->
 <!--Gjør endringer under her-->
 
@@ -67,12 +67,6 @@ Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Det vi
 
 [//]: # (Se vår [FAQ side](faq.md){:target="blank"}.)
 
-
-
-
-
-<!--Gjør endringer over her-->
-{% include bottom.html %}
 
 
 
