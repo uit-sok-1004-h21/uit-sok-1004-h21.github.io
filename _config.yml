@@ -26,7 +26,7 @@ title: null #Skal stå tom
 
 
 #-------------IKKE SLETT---------------------------------------------------------------------
-theme: default
+theme: jekyll-theme-primer
 markdown: kramdown
 kramdown:
    auto_ids: true
