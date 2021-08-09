@@ -4,8 +4,6 @@
 <!--For å endre fagtittel, fagundertittel, bakgrunn og fagbilde gjør endringer i config.yml->
 <!--Gjør endringer under her-->
 
-## [Tilbake til programsiden](https://uit-econ.github.io/hovedside/){:target="blank"} 
-
 ## Kursbeskrivelse 
 
 Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.  
@@ -68,30 +66,4 @@ Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Det vi
 [//]: # (## FAQ - Ofte stilte spørsmål og svar)
 
 [//]: # (Se vår [FAQ side](faq.md){:target="blank"}.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
