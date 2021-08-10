@@ -7,7 +7,7 @@ Evalueringsplanen gir oppgaver, frister og ressurser i forbindelse med obligator
 
 - [Forelesningsplan](forelesningsplan.md){:target="blank"}
 - [Seminarplan](seminarplan.md){:target="blank"}
-- [Evalueringsplan](evalueringsplan.md){:target="blank"}   
+- [Innleveringsplan](innleveringer.md){:target="blank"}   
 
 Opptak av forelesningene ligger på [Mediasite](https://mediasite.uit.no/Mediasite/Catalog/Full/dcf1cefd1c1f4c8fb684abd0b45c580e21){:target="blank"}   
 
@@ -36,12 +36,12 @@ Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.
 Dette kurset er ex. fac. for bachelorstudiet i Samfunnsøkonomi med datavitenskap.  
 Ex. fac består av to deler: (i) kurs i informasjonskompetanse (iKomp), (ii) vitenskapsteori.  
 Begge finnes som opptak, og blir ikke gjennomgått i klasserommet. Hver del må bestås med godkjent arbeidskrav.   
-For frister se [evalueringsplanen](evalueringsplan.md){:target="blank"}.
+For frister se [innleveringsplanen](innleveringer.md){:target="blank"}.
 
 - [iKomp](https://result.uit.no/ikomp/){:target="blank"}
   - Online kurs. Arbeidskravet tas digitalt på slutten av kurset. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
 - Vitenskapsteori
-  - Online kurs. For oppgaveteksten til arbeidskravet se [evalueringsplanen](evalueringsplan.md){:target="blank"}.
+  - Online kurs. For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
 
 ## Kunngjøringer  
 
@@ -52,7 +52,7 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/cou
 
 Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
-Frister, oppgaver og ressurser finnes i [evalueringsplanen](evalueringsplan.md){:target="blank"}.    
+Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.md){:target="blank"}.    
 
 Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.  
 
