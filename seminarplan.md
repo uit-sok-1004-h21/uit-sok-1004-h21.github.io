@@ -1,3 +1,4 @@
+{% include navbar.html %}
 ## Seminarplan
 
 | Seminarnr. <img width=150/>  | Seminargruppe <img width=100/> | Tema  <img width=250/>     | Lærer <img width=100/>  | Ressurser <img width=200/>  |
