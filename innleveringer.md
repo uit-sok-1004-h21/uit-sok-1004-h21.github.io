@@ -1,4 +1,4 @@
-## Evalueringsplan  
+## Innleveringer 
 
 - Arbeidskrav er obligatoriske. Karakter settes ikke på disse.
 - Mappeoppgaver er obligatoriske, og danner grunnlag for karakter A-F på kurset.  
