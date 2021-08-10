@@ -58,9 +58,6 @@ Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/l
 
 
 
-## FAQ - Ofte stilte spørsmål og svar
-
-Se vår [FAQ side](faq.md){:target="blank"}.
 
 
 
