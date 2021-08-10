@@ -1,69 +1,66 @@
-{% include navbar.html %}
-{% include top-box.html %}
-
-<!--For å endre fagtittel, fagundertittel, bakgrunn og fagbilde gjør endringer i config.yml->
-<!--Gjør endringer under her-->
-
-## Kursbeskrivelse 
-
-Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.  
-[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=722326){:target="blank"}
-
-## Faglærerinfo  
-
-[Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
-
-
-## Pensum  
-
-[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h21/notebooks){:target="blank"}  
-[Kapittel i DataCamp (se kursplan)](https://learn.datacamp.com/){:target="blank"} 
-
-DataCamp blir tilgjengelig mandag 16. august.
-
-## Forkunnskaper  
-Ingen
+{% include top-box.html %} <!-- Kode for å inkludere boksen på toppen av siden. Se _config.yml for å gjøre endringer. -->
 
 ## Kursplan  
 
-Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjennomgså, og lenker til forelesningsnotater. Timeplanen viser tidspunkt og sted for forelesningene og seminarer.
+Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
+Evalueringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Undervisningsplan](lectures.md){:target="blank"}
+- [Forelesningsplan](forelesningsplan.md){:target="blank"}
+- [Seminarplan](seminarplan.md){:target="blank"}
+- [Evalueringsplan](evalueringsplan.md){:target="blank"}   
 
-- [Timeplan på timeplan.uit.no](http://timeplan.uit.no/emne_timeplan.php?sem=21v&module[]=SOK-1003-1#week-23){:target="blank"}
+Opptak av forelesningene ligger på [Mediasite](https://mediasite.uit.no/Mediasite/Catalog/Full/dcf1cefd1c1f4c8fb684abd0b45c580e21){:target="blank"}   
 
+
+
+[Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
+
+
+## Kursbeskrivelse 
+
+Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.  
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="blank"}
+
+## Faglærerinfo  
+
+- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
+- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"}  
+
+## Pensum  
+
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8430615560002205?auth=SAML){:target="blank"}
+- [The Economy - CORE](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}
+- [Learn RStudio IDE: Quick, Effective, and Productive Data Science - Matthew Campbell](https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4511-8.pdf){:target="blank"}
+
+## Forkunnskaper  
+Dette kurset er ex. fac. for bachelorstudiet i Samfunnsøkonomi med datavitenskap.  
+Ex. fac består av to deler: (i) kurs i informasjonskompetanse (iKomp), (ii) vitenskapsteori.  
+Begge finnes som opptak, og blir ikke gjennomgått i klasserommet. Hver del må bestås med godkjent arbeidskrav.   
+For frister se [evalueringsplanen](evalueringsplan.md){:target="blank"}.
+
+- [iKomp](https://result.uit.no/ikomp/){:target="blank"}
+  - Online kurs. Arbeidskravet tas digitalt på slutten av kurset. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
+- Vitenskapsteori
+  - Online kurs. For oppgaveteksten til arbeidskravet se [evalueringsplanen](evalueringsplan.md){:target="blank"}.
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24032){:target="blank"}.
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24034){:target="blank"}.
 
 
 ## Innlevering og eksamen  
-Til hver forelesning vil det være et arbeidskrav, enten på [DataCamp](https://learn.datacamp.com/){:target="blank"} eller GitHub. Disse gis bestått/ikke bestått, og alle arbeidskrav må være bestått for at kurset skal være bestått. 
 
-Karakter A-E, med F som stryk, fastsettes basert på et prosjekt som gjøres i grupper. Følgende inngår i karaktervurderingen:
+Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
-- Innlevering av prosjektskisse
-- Innlevering av prosjekt
-- Muntlig eksamen
+Frister, oppgaver og ressurser finnes i [evalueringsplanen](evalueringsplan.md){:target="blank"}.    
 
-På den muntlige eksamen vil studenten også få spørsmål om pensum generelt. 
-
-
-[Her finner du informasjon om frister og hvordan du leverer arbeidskrav og prosjekt, og dato for muntlig](frister.md){:target="blank"}. 
-
-Merk at prosjektet leveres BÅDE i GitHub og på Wiseflow.
-
-Det er arrangeres ikke kontinuasjonseksamen på emnet.
+Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.  
 
 
 
-## Studentenes evaluering av kurset  
+## FAQ - Ofte stilte spørsmål og svar
 
-Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Det vil komme mer informasjon om dette senere.
+Se vår [FAQ side](faq.md){:target="blank"}.
 
 
-[//]: # (## FAQ - Ofte stilte spørsmål og svar)
-
-[//]: # (Se vår [FAQ side](faq.md){:target="blank"}.)
 
