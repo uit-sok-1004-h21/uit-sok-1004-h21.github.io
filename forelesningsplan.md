@@ -1,3 +1,4 @@
+{% include navbar.html %}
 # Forelesningsplan
 
 | Forelesning <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
