@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 # Her er lenkene til de ulike casene
 
 [Case 1: Bruttonasjonalprodukt - BNP (**html file**)](case_1_bnp.html){:target="_blank"}
