@@ -3,7 +3,7 @@
 ## Kursplan  
 
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Evalueringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Forelesningsplan](forelesningsplan.md){:target="blank"}
 - [Seminarplan](seminarplan.md){:target="blank"}
@@ -24,7 +24,10 @@ Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.
 ## Faglærerinfo  
 
 - [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"}  
+- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} 
+- Cem Olcan (studentassistent):  <cem.olcan@uit.no>
+- Edgardo Salinas (studentassistent): <edgardo.d.salinas@uit.no>   
+
 
 ## Pensum  
 
