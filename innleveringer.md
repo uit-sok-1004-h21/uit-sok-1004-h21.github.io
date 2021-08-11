@@ -1,4 +1,4 @@
-{% include navbar.html %}
+{% include navbar_open.html %}
 ## Innleveringer 
 
 - Arbeidskrav er obligatoriske. Karakter settes ikke på disse.
