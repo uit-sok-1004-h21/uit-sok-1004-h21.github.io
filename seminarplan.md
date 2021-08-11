@@ -1,4 +1,4 @@
-{% include navbar.html %}
+{% include navbar_open.html %}
 ## Seminarplan
 
 | Seminarnr. <img width=150/>   | Tema  <img width=250/>     | Lærer <img width=100/>  | Ressurser <img width=200/>  |
