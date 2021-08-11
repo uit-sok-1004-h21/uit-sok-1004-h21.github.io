@@ -1,0 +1,24 @@
+<div style="width:400px;" id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="https://uit-econ.github.io/">Hovedside bachelor</a>
+  <a href="index.html">Hjem</a>
+  <a href="forelesningsplan.html">Forelesningsplan</a>
+  <a href="frister.html">Datoer og frister</a>
+  <a href="seminarer.html">Seminarer</a>
+  <a href="https://github.com/uit-sok-1003-h21/notebooks">Jupyter notater</a>
+</div>
+
+
+<div class="sidenav_button" onclick="openNav()">&#9776; </div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "400px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("mySidenav").style.transition= "0.5s";
+}
+
+</script>
