@@ -1,4 +1,4 @@
-{% include navbar.html %}
+{% include navbar_open.html %}
 
 # Her er lenkene til de ulike casene
 
