@@ -59,7 +59,7 @@ Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.md){:ta
 
 Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.  
 
-## KPMG Seminaret
+## KPMG Seminar
 
 Det settes opp et seminar i samarbeid med KPMG i løpet av semesteret. Her vil man lære om prosjektgjennomføring i arbeidslivet; blant annet presentasjonsteknikker, hvordan møte kunder, og tolke oppdrag, og hvordan presentere resultater for ulike kundegrupper.   
 
