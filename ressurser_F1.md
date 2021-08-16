@@ -4,7 +4,10 @@ layout: default
 {% include navbar_open.html %}
 # Ressurser forelesning 1
 
-[Slides](https://docs.google.com/presentation/d/e/2PACX-1vRy78sT6-RFbjZ-CH6v--cQZURA29pbd4aXDLQ9Gdv-Q1nXtiBWi8ApbT-L1JSyngsR6JvzWEGnACSb/pub?start=false&loop=false&delayms=5000){:target="_blank"}
+[Slides 1](/forelesninger/SOK-1004 Forelesning 1.pdf){:target="_blank"}  
+
+
+[Slides 2](https://docs.google.com/presentation/d/e/2PACX-1vRy78sT6-RFbjZ-CH6v--cQZURA29pbd4aXDLQ9Gdv-Q1nXtiBWi8ApbT-L1JSyngsR6JvzWEGnACSb/pub?start=false&loop=false&delayms=5000){:target="_blank"}
 
 Nettside [freakonomics.com](https://freakonomics.com/){:target="_blank"}
 
