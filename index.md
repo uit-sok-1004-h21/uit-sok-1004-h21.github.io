@@ -35,16 +35,16 @@ Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.
 - [The Economy - CORE](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}
 - [Learn RStudio IDE: Quick, Effective, and Productive Data Science - Matthew Campbell](https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4511-8.pdf){:target="blank"}
 
-## Forkunnskaper  
-Dette kurset er ex. fac. for bachelorstudiet i Samfunnsøkonomi med datavitenskap.  
+## Ex.fac. oppgaver  
+Dette kurset er ex.fac (Examen facultatum) for bachelorstudiet i Samfunnsøkonomi med datavitenskap.  
 Ex. fac består av to deler: (i) kurs i informasjonskompetanse (iKomp), (ii) vitenskapsteori.  
-Begge finnes som opptak, og blir ikke gjennomgått i klasserommet. Hver del må bestås med godkjent arbeidskrav.   
+Begge finnes som opptak, og blir ikke gjennomgått i klasserommet. **Hver del må bestås med godkjent arbeidskrav.**   
 For frister se [innleveringsplanen](innleveringer.md){:target="blank"}.
 
 - [iKomp](https://result.uit.no/ikomp/){:target="blank"}
-  - Online kurs. Arbeidskravet tas digitalt på slutten av kurset. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
+  - Online kurs. Arbeidskravet tas digitalt. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
 - Vitenskapsteori
-  - [Online kurs](https://mediasite.uit.no/Mediasite/Channel/74954bff93cb4035bb5fde4b71fbae825f){:target="blank"}.  For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
+  - [Online kurs](https://mediasite.uit.no/Mediasite/Channel/74954bff93cb4035bb5fde4b71fbae825f){:target="blank"}. For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
 
 ## Kunngjøringer  
 
