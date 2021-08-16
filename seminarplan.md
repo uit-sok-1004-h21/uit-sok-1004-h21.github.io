@@ -5,11 +5,11 @@
 |----------------|----------------------------------------------------------------|-----------|--------------------------------------|
 |  S1  |   Øving i R                      | ØM     |    |
 |  S2 |  BNP, ulikhet og markedsøkonomien    | DC |    |
-|   S3|  Gjennomgang av Case 1 og 2    | Cem Olcan |    |
+|   S3|  Gjennomgang av Case 1 og 2    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}   |
 |  S4  | Teknologi og vekst    | DC |    |
-| S5  |  Gjennomgang av Case 3 og 4    | Cem Olcan |    |
+| S5  |  Gjennomgang av Case 3 og 4    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}    |
 |  S6 |  Produksjon    | DC |    |
-|  S7 |  Gjennomgang av Case 5 og 6    | Cem Olcan |    |
+|  S7 |  Gjennomgang av Case 5 og 6    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}   |
 | S8  |  Atferdsøkonomi    | DC |    |
 
 
