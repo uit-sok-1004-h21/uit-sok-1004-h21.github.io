@@ -61,7 +61,7 @@ Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/l
 
 ## Innlevering Kull 2020
 
-[Innleveringsplan for Kull 2020](innleveringsplan_kull_2020.md){:target="blank"}.  
+[Innleveringsplan for Kull 2020](innleveringsplan_Kull_2020.md){:target="blank"}.  
 
 
 
