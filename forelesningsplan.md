@@ -3,7 +3,7 @@
 
 | Forelesning <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|F1   | Innledning og kursplan                        | DC/ØM       | [Ressursside (ØM)](ressurser_F1.md){:target='_blank_'} <br /> [Forelesning 1 (DC)](/forelesninger/SOK-1004 Forelesning 1.pdf){:target='_blank_'}   |
+|F1   | Innledning og kursplan                        | DC/ØM       | [Ressursside](ressurser_F1.md){:target='_blank_'}  |
 |F2  | RStudio IDE  | ØM | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 1, 2 & 3   |
 |F3   | RStudio projects, reproduserbarhet og tidyverse  | ØM     | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 4, 5 & 6  |
 |F4    | Plots, Markdown og Git | ØM | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 7, 8 & 11, 12 |
