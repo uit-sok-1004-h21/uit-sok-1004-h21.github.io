@@ -44,7 +44,7 @@ For frister se [innleveringsplanen](innleveringer.md){:target="blank"}.
 - [iKomp](https://result.uit.no/ikomp/){:target="blank"}
   - Online kurs. Arbeidskravet tas digitalt på slutten av kurset. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
 - Vitenskapsteori
-  - Online kurs. For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
+  - [Online kurs](/vitenskapsteori). For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
 
 ## Kunngjøringer  
 
