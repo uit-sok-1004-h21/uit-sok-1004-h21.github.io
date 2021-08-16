@@ -4,7 +4,7 @@
 - Arbeidskrav er obligatoriske. Karakter settes ikke på disse.
 - Mappeoppgaver er obligatoriske, og danner grunnlag for karakter A-F på kurset.
 - Dere kan bruke kursbevis fra tidligere gjennomført iKomp kurs.
-- NB. Mappeinnleveringen "Skriftlig prosjektoppgave" er annerledes enn for studenter fra Kull 2021. Ellers er innlevringene de samme.  
+- NB. Mappeinnleveringen "Skriftlig prosjektoppgave" er annerledes enn for studenter fra Kull 2021. Ellers er innleveringene de samme.  
 
 
 | Type oppgave <img width=80/>   |  Oppgavetekst  <img width=300/>       | Innleveringsfrist <img width=80/> | Ressurser <img width=200/>  |
