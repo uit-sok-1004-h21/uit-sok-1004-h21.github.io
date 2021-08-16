@@ -44,7 +44,7 @@ For frister se [innleveringsplanen](innleveringer.md){:target="blank"}.
 - [iKomp](https://result.uit.no/ikomp/){:target="blank"}
   - Online kurs. Arbeidskravet tas digitalt på slutten av kurset. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
 - Vitenskapsteori
-  - [Online kurs](/vitenskapsteori). For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
+  - [Online kurs](https://uit.instructure.com/courses/24034/external_tools/63){:target="blank"}.  For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
 
 ## Kunngjøringer  
 
@@ -58,6 +58,12 @@ Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.md){:target="blank"}.    
 
 Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.  
+
+## Innlevering Kull 2020
+
+[Innleveringsplan for Kull 2020](innleveringsplan_kull_2020.md){:target="blank"}.  
+
+
 
 ## KPMG Seminar
 
