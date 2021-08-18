@@ -2,11 +2,14 @@
 
 # Oppgaver til Seminar 2
 
-Les [s. 21-24]() i Meld. St. 1: Nasjonalbudsjettet 2021
+Les [s. 21-24](NB 21 s21-14.pdf){:target='_blank_'} i Meld. St. 1: Nasjonalbudsjettet 2021
 1.	Hva måler Bruttonasjonalprodukt (BNP)? Hvilke komponenter består den av?
 2.	Hva måler BNP Fastlands-Norge? Hva er utelatt av sektorer i dette begrepet, og hvorfor?
 3.	Er BNP per innbygger et godt mål for velstand i et land? Hvorfor/hvorfor ikke?
 
-Les [Core kap. 5.12](https://www.core-econ.org/the-economy/book/text/05.html#512-measuring-economic-inequality), [kap 2.7]() i Meld. St. 1: Nasjonalbudsjettet 2021, og [kap 2.3.1]() i Meld St 13 (2018-2019) Muligheter for alle
+Les [Core kap. 5.12](https://www.core-econ.org/the-economy/book/text/05.html#512-measuring-economic-inequality){:target='_blank_'}, [kap 2.7](NB 2021 kap 2_7.pdf){:target='_blank_'} i Meld. St. 1: Nasjonalbudsjettet 2021, og [kap 2.3.1](Meld. St. (2018-2019) kap 2_3_1.pdf){:target='_blank_'} i Meld St 13 (2018-2019) Muligheter for alle
 
-4. 
+4. Forklar hvordan en Lorenz kurve og Gini koeffisient (indeks) brukes som mål for ulikhet i inntektsfordelingen. Hvordan ser Lorenz kurven ut for Norge?
+5. Hva viser Figur 2.12 i Meld. St. 1: Nasjonalbudsjettet 2021 om utviklingen av inntektsfordelingen i Norge fra 1995?
+6. I Figur 2.12 hvordan forklarer du forskjellen i Gini-indeksen når man legger til grunn inntekt før og etter overføringer og skatter. Gir Gini indeksen et godt bilde av inntektsulikhet i et land, eller er det andre faktorer man bør ta hensyn til?
+7. Figur 2.5 i Meld St 13 (2018-2019) gir et bilde på inntektsulikheten i Norge sammenliknet med andre land. Hvordan ligger Norge an i denne internasjonale sammenlikningen, og hvordan forklarer du dette?
