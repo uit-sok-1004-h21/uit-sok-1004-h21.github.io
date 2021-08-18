@@ -25,7 +25,7 @@ Kan skrives i grupper på maksimalt 3. Leveres i [Wiseflow](https://europe.wisef
 **Oppgave** 
 1. Forklar hvordan man går frem for å tegne en Lorenz kurve for et land. Hvilke data trenger du, og hvordan organiseres dataene?
 2. Forklar hvordan Gini-indeksen angir graden av inntektsulikhet i et land. Hvordan forklares utviklingen i Gini-indeksen for Norge mellom 1995 og 2018?
-3. En del land har prøvd å gi grupper i sammfunnet en "borgerlønn" eller basic income. Du kan lese om [eksperimentet i Finland](https://www.kela.fi/web/en/basic-income-experiment){:target='_blank_'}. Basert på det finske eksperimentet vordan tror du at en borgerlønn vil påvirke inntektsfordelingen i et land, og hvorfor?
+3. En del land har prøvd å gi grupper i sammfunnet en "borgerlønn" eller basic income. Du kan lese om [eksperimentet i Finland](https://www.kela.fi/web/en/basic-income-experiment){:target='_blank_'}. Basert på det finske eksperimentet hvordan tror du at en borgerlønn vil påvirke inntektsfordelingen i et land, og hvorfor?
 
 
 
