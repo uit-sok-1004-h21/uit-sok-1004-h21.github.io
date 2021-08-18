@@ -2,7 +2,7 @@
 ## Innleveringer 
 
 - Arbeidskrav er obligatoriske. Karakter settes ikke på disse.
-- Arbeidskrav leveres i [Canvas]
+- Arbeidskrav leveres i [Canvas](https://uit.instructure.com/courses/24034){:target="blank"}.
 - Mappeoppgaver er obligatoriske, og danner grunnlag for karakter A-F på kurset.
 - Mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="_blank"}. 
 
