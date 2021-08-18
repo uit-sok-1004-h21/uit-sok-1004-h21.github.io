@@ -1,10 +1,10 @@
 {% include navbar_open.html %}
 ## Seminarplan
 
-| Seminarnr. <img width=150/>   | Tema  <img width=250/>     | Lærer <img width=100/>  | Ressurser <img width=200/>  |
+| Seminarnr. <img width=150/>   | Tema  <img width=250/>     | Lærer <img width=100/>  | Oppgaver og ressurser <img width=200/>  |
 |----------------|----------------------------------------------------------------|-----------|--------------------------------------|
 |  S1  |   Øving i R                      | ØM     |    |
-|  S2 |  BNP, ulikhet og markedsøkonomien    | DC |    |
+|  S2 |  BNP, ulikhet og markedsøkonomien    | DC | [seminar 2](Seminar2.md){:target='_blank_'}    |
 |   S3|  Gjennomgang av Case 1 og 2    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}   |
 |  S4  | Teknologi og vekst    | DC |    |
 | S5  |  Gjennomgang av Case 3 og 4    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}    |
