@@ -8,6 +8,7 @@
 
 - Dere kan bruke kursbevis fra tidligere gjennomført iKomp kurs.
 - NB. Mappeinnleveringen "Skriftlig prosjektoppgave" er annerledes enn for studenter fra Kull 2021. Ellers er innleveringene de samme.  
+- Prosjektoppgaven leveres av [Recogni](https://www.recogni.no/){:target="_blank"}.
 
 
 
@@ -24,5 +25,5 @@
 |Arbeidskrav   | Case 5                        | 08/11 kl. 16.00       |    |
 |Arbeidskrav   | Case 6                        | 15/11 kl. 16.00       |    |
 |Arbeidskrav    | Muntlig presentasjon (opptak) av prosjektoppgaven                        | 23/11 kl. 16.00       |    |
-|Mappe   |Skriftlig prosjektoppgave                      | 15/12 kl. 16.00       |    |
+|Mappe   |Skriftlig prosjektoppgave                      | 15/12 kl. 16.00       |     |
 
