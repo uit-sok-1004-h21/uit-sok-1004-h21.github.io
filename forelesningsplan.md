@@ -5,7 +5,7 @@
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |F1   | Innledning og kursplan                        | DC/ØM       | [Ressursside](ressurser_F1.md){:target='_blank_'}  |
 |F2  | RStudio IDE  | ØM | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 1, 2 & 3|
-||||[Co2 Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions){:target='_blank_'}  |
+||||[CO2-data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions){:target='_blank_'} [Nettavisen](https://www.nettavisen.no/okonomi/kina-har-over-300-ganger-sa-hoye-co2-utslipp-som-norge-na-skal-de-slippe-ut-mye-mer/s/12-95-3424169652){:target='_blank_'} |
 |F3   | RStudio projects, reproduserbarhet og tidyverse  | ØM     | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 4, 5 & 6  |
 |F4    | Plots, Markdown og Git | ØM | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 7, 8 & 11, 12 |
 |F5   | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}  |
