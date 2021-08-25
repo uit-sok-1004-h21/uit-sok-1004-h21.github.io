@@ -2,10 +2,12 @@
 layout: default
 ---
 {% include navbar_open.html %}
+
 # Ressurser forelesning 2
 
+Pensumbok: [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 1, 2 & 3
 
-Nettside [freakonomics.com](https://freakonomics.com/){:target="_blank"}
+Artikkel i Nettavisen: [Kina har over 300 ganger så høye CO2-utslipp som Norge: Nå skal de slippe ut mye mer](https://www.nettavisen.no/okonomi/kina-har-over-300-ganger-sa-hoye-co2-utslipp-som-norge-na-skal-de-slippe-ut-mye-mer/s/12-95-3424169652){:target='_blank_'}
 
-Nettartikkel O'reilly (2010) ["What is data science?"](https://www.oreilly.com/radar/what-is-data-science/){:target="_blank"}
+Data on CO2 and Greenhouse Gas Emissions by Our World in Data [CO2-data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions){:target='_blank_'}
 
