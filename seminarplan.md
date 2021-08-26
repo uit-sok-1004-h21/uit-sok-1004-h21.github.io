@@ -9,7 +9,7 @@
 |  S4  | Teknologi og vekst    | DC | oppgaver kommer   |
 | S5  |  Gjennomgang av Case 3 og 4    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}    |
 |  S6 |  Produksjon    | DC | oppgaver kommer    |
-|  S7 |  Gjennomgang av Case 5 og 6    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}   |
+|  S7 |  Gjennomgang av Case 5    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}   |
 | S8  |  Atferdsøkonomi    | DC | oppgaver kommer    |
 
 
