@@ -21,5 +21,3 @@
 [Case 5: Deskriptiv analyse av prisdata fra SSB (KPI) (**html file**)](case_5_kpi.html){:target="_blank"}
 
 [Case 5: Deskriptiv analyse av prisdata fra SSB (KPI) (**R code on github**)](https://github.com/uit-sok-1004-h21/cases/blob/main/case_5_kpi.R){:target="_blank"}
-
-Case 6: TBA
