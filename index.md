@@ -42,7 +42,7 @@ Begge finnes som opptak, og blir ikke gjennomgått i klasserommet. **Hver del m�
 For frister se [innleveringsplanen](innleveringer.md){:target="blank"}.
 
 - [iKomp](https://result.uit.no/ikomp/){:target="blank"}
-  - Online kurs. Arbeidskravet tas digitalt. Kursbevis leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.
+  - Online kurs. Arbeidskravet tas digitalt. Kursbevis leveres i [Canvas](https://uit.instructure.com/courses/24034){:target="blank"}.
 - Vitenskapsteori
   - [Online kurs](https://mediasite.uit.no/Mediasite/Channel/74954bff93cb4035bb5fde4b71fbae825f){:target="blank"}. For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
 
@@ -69,7 +69,7 @@ Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.md){:ta
 
 Det settes opp et seminar i samarbeid med KPMG i løpet av semesteret. Her vil man lære om prosjektgjennomføring i arbeidslivet; blant annet presentasjonsteknikker, hvordan møte kunder, og tolke oppdrag, og hvordan presentere resultater for ulike kundegrupper.   
 
-Foreløpig dato er mandag 27. september kl 12.15-15.00. Flere detaljer kommer.
+Dato er mandag 27. september kl 12.15-15.00. Flere detaljer kommer.
 
 
 
