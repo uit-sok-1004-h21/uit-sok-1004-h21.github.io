@@ -18,7 +18,7 @@
 |F13 | Produksjon  | DC | [Core Kap. 3](CORE/The Economy_ Unit 3 Scarcity, work, and choice.pdf){:target='_blank_'}  | 
 |F14  | Arbeidsinnsats  | DC         | [Core Kap. 3](CORE/The Economy_ Unit 3 Scarcity, work, and choice.pdf){:target='_blank_'}  |
 |F15    | Case 5: Deskriptiv analyse av prisdata fra SSB (KPI)   | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} | 
-|F16   | Case 6: TBA                 | ØM       |  [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
+|F16   | Gjennomgang av prosjektoppgaven      | ØM       |   |
 |F17  | Individet og samfunnet        | DC         | [Core Kap. 4](CORE/The Economy_ Unit 4 Social interactions.pdf){:target='_blank_'}   |
 |F18  |   TBA                                      | DC         |   |
 
