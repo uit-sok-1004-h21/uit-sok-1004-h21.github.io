@@ -28,6 +28,10 @@ Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.
 - Cem Olcan (studentassistent):  <cem.olcan@uit.no>
 - Edgardo Salinas (studentassistent): <edgardo.d.salinas@uit.no>   
 
+## Administrative spørsmål
+
+For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
+
 
 ## Pensum  
 
