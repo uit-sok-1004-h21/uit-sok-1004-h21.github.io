@@ -23,4 +23,4 @@ Data on CO2 and Greenhouse Gas Emissions by Our World in Data [CO2-data](https:/
 
 [myMediasite Video Forelesning 3 del 2](https://mediasite.uit.no/Mediasite/Play/fb7a464c88004d78bb76591b413116901d){:target='_blank_'}
 
-[Rmarkdowndokumentet fra del 2](CO2_utslipp_v2.Rmd){:target='_blank_'}
+[Rmarkdowndokumentet fra del 2](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/CO2_utslipp_v2.Rmd){:target='_blank_'}
