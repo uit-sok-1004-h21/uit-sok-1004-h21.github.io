@@ -17,10 +17,10 @@ Data on CO2 and Greenhouse Gas Emissions by Our World in Data [CO2-data](https:/
 
 [Last ned R kode fra Forelesning 3](R_kode_CO2_part2.R){:target='_blank_'} 
 
-[R kode fra Forelesning 3 på github](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/R_kode_CO2_part2.R)
+[R kode fra Forelesning 3 på github](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/R_kode_CO2_part2.R){:target='_blank_'}
 
-[myMediasite Video Forelesning 3 del 1](https://mediasite.uit.no/Mediasite/Play/c76972e745bf4c75a7408dfb60463c0d1d)
+[myMediasite Video Forelesning 3 del 1](https://mediasite.uit.no/Mediasite/Play/c76972e745bf4c75a7408dfb60463c0d1d){:target='_blank_'}
 
-[myMediasite Video Forelesning 3 del 2](https://mediasite.uit.no/Mediasite/Play/fb7a464c88004d78bb76591b413116901d)
+[myMediasite Video Forelesning 3 del 2](https://mediasite.uit.no/Mediasite/Play/fb7a464c88004d78bb76591b413116901d){:target='_blank_'}
 
-[Rmarkdowndokumentet fra del 2]()
+[Rmarkdowndokumentet fra del 2](CO2_utslipp_v2.Rmd){:target='_blank_'}
