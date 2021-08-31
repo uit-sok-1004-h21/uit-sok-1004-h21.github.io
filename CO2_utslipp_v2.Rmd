@@ -1,0 +1,106 @@
+---
+title: "Utslipp av karbondioksid"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(comment = NA)
+```
+
+## Utslippsdata
+
+Vi benytter oss av data fra "Our World in Data", se <https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions>.
+
+```{r data, include=FALSE}
+# lese CO2 data fra csv
+library(tidyverse)
+co2data <- read_csv("https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv")
+```
+
+## Norge og Kina
+
+Vi ser nå på $CO_2$ utslipp per capita for Norge og Kina.
+
+```{r plot, echo=FALSE}
+co2data %>%
+  rename(land=country) %>% 
+  mutate(land=recode(land,
+                     'Norway'="Norge",
+                     'China'="Kina")) %>% 
+  filter(land %in% c("Norge", "Kina")) %>% 
+  ggplot(aes(x=year, y=co2_per_capita, color=land)) + geom_line(lwd=2) +
+  scale_color_manual(values=c("#56B4E9", "#E69F00")) +
+  theme_bw() + 
+  ggtitle(expression(CO[2]~utslipp~per~år)) + 
+  xlab("År") +
+  ylab("Tonn per capita")
+```
+
+Vi ser at ...
+
+\pagebreak
+
+## Globale utslipp
+
+Følgende figur viser globale $CO_2$ utslipp i milliarder tonn.
+
+```{r plot2, echo=FALSE}
+co2data %>%
+  filter(country=="World") %>% 
+  ggplot(aes(x=year, y=co2/1000)) + geom_line() +
+  theme_bw() +
+  geom_vline(xintercept=1900, colour="blue") +
+  geom_text(aes(x=1900, label="1900", y=10), colour="blue", angle=90, vjust = 1.2) +
+  geom_vline(xintercept=1927, colour="darkblue") +
+  geom_text(aes(x=1927, label="1927", y=15), colour="darkblue", angle=90, vjust = 1.2) +
+  geom_vline(xintercept=1956, colour="purple") +
+  geom_text(aes(x=1956, label="1956", y=20), colour="purple", angle=90, vjust = 1.2) +
+  geom_vline(xintercept=1972, colour="black") +
+  geom_text(aes(x=1972, label="1972", y=25), colour="black", angle=90, vjust = 1.2) +
+  geom_vline(xintercept=2010, colour="red") +
+  geom_text(aes(x=2010, label="2010", y=30), colour="red", angle=90, vjust = 1.2) +
+  ggtitle(expression(Globale~CO[2]~utslipp~per~år)) + 
+  xlab("År") +
+  ylab("Milliarder tonn")
+```
+
+Vi ser at ...
+
+Setter vi 1900 som basis, så tok det `r 1927-1900` år å fordoble $CO_2$ utslippene.
+
+### Oppgave
+
+Skriv en tekst som angir $CO_2$ utslippene i 1900 og i 2019, med referans til dataene (iike skriv inn tall, men benytte R kode). Beregn økningen i $CO_2$ utslipp på disse 119 årene. Modifiser plottet over med 1895 som stratpunkt.
+
+### Svar på oppgave
+
+```{r beregninger, include=FALSE}
+y2019 <- world %>% filter(year==2019)
+y1900 <- world %>% filter(year==1900)
+```
+
+I 1900 var de globale $CO_2$ utslippene på `r y1900$co2` milliarder tonn, mens de i 2019 var på `r y2019$co2` milliarder tonn. Dette tilsvarer at utslippene i 2019 er `r y2019$co2/y1900$co2` større enn i 1900.
+
+Nytt plott, benytter `filter()` 
+
+```{r plot2, echo=FALSE}
+co2data %>%
+  filter(country=="World") %>% 
+  filter(year >= 1895) %>% 
+  ggplot(aes(x=year, y=co2/1000)) + geom_line() +
+  theme_bw() +
+  geom_vline(xintercept=1900, colour="blue") +
+  geom_text(aes(x=1900, label="1900", y=10), colour="blue", angle=90, vjust = 1.2) +
+  geom_vline(xintercept=1927, colour="darkblue") +
+  geom_text(aes(x=1927, label="1927", y=15), colour="darkblue", angle=90, vjust = 1.2) +
+  geom_vline(xintercept=1956, colour="purple") +
+  geom_text(aes(x=1956, label="1956", y=20), colour="purple", angle=90, vjust = 1.2) +
+  geom_vline(xintercept=1972, colour="black") +
+  geom_text(aes(x=1972, label="1972", y=25), colour="black", angle=90, vjust = 1.2) +
+  geom_vline(xintercept=2010, colour="red") +
+  geom_text(aes(x=2010, label="2010", y=30), colour="red", angle=90, vjust = 1.2) +
+  ggtitle(expression(Globale~CO[2]~utslipp~per~år)) + 
+  xlab("År") +
+  ylab("Milliarder tonn")
+```
