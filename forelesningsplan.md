@@ -5,7 +5,7 @@
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |F1   | Innledning og kursplan                        | DC/ØM       | [Ressursside](ressurser_F1.md){:target='_blank_'}  |
 |F2  | RStudio IDE  | ØM | [Ressursside](ressurser_F2.md){:target='_blank_'} |
-|F3   | RStudio projects, reproduserbarhet og tidyverse  | ØM     | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 4, 5 & 6  |
+|F3   | RStudio projects, reproduserbarhet og tidyverse  | ØM     | [Ressursside](ressurser_F3.md){:target='_blank_'}  |
 |F4    | Plots, Markdown og Git | ØM | [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 7, 8 & 11, 12 |
 |F5   | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}  |
 |F6     | Markedsøkonomien  | DC | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}   |
