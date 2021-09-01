@@ -9,7 +9,7 @@ Pensumbok: [Campbell](https://uit.instructure.com/files/1421071/download?downloa
 
 Ønsker du å se alle mulighetene med å kombinere R og Markdown, sjekk ut boka: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/){:target='_blank_'}
 
-## Tidy data og det å kombinere flere datakilder
+## [Tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) og det å kombinere flere datakilder
 
 På nettsiden [Global Warming](https://www.drroyspencer.com/latest-global-temperatures/) gir Roy Spencer oss tilgang på temperaturdata målt fra satelitt. Nederst på forsiden finner du data fra fire nivåer i atmosfæren; "Lower-Troposphere", "Mid-Troposphere", "Tropopause" og "Lower-Stratosphere".
 
