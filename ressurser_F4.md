@@ -7,12 +7,12 @@ layout: default
 
 Pensumbok: [Campbell](https://uit.instructure.com/files/1421071/download?download_frd=1){:target='_blank_'} Chap 7, 8 & 11, 12
 
-[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/){:target='_blank_'}
+Ønsker du å se alle mulighetene med å kombinere R og Markdown, sjekk ut boka: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/){:target='_blank_'}
 
-Data on CO2 and Greenhouse Gas Emissions by Our World in Data [CO2-data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions){:target='_blank_'}
+## Tidy data og det å kombinere flere datakilder
 
-[Last ned R kode fra Forelesning 4](){:target='_blank_'} 
+På nettsiden [Global Warming](https://www.drroyspencer.com/latest-global-temperatures/) gir Roy Spencer oss tilgang på temperaturdata målt fra satelitt. Nederst på forsiden finner du data fra fire nivåer i atmosfæren; "Lower-Troposphere", "Mid-Troposphere", "Tropopause" og "Lower-Stratosphere".
 
-[R kode fra Forelesning 4 på github](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/){:target='_blank_'}
+Målet vårt er å vise temperaturen globalt (kolonne 3: "Global") fra disse fire kildene i samme figur, samt at vi beregner gjennomsnittet av disse fire målingene per måned. Vi kan kanskje også driste oss til å beregne et glidende gjennomsnitt, slik som i figuren på nettsiden.
 
-[R Markdowndokumentet fra del 2](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/CO2_utslipp_v2.Rmd){:target='_blank_'}
+Tips: Når du "sjekker" hvordan dataene ser ut, se spesielt på slutten av hver fil, ikke alt er "data". Vi må dermed rydde i fila før vi går videre. 
