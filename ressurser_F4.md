@@ -25,5 +25,5 @@ Tips: Når du "sjekker" hvordan dataene ser ut, se spesielt på slutten av hver 
 
 [myMediasite Video Forelesning 4 del 2](https://mediasite.uit.no/Mediasite/Play/81221444751b406ba06c6ef3e69e5eaf1d){:target='_blank_'}
 
-[myMediasite Video Forelesning 4 del 3](){:target='_blank_'}
+[myMediasite Video Forelesning 4 del 3](https://mediasite.uit.no/Mediasite/Play/31f846c996714910ad0c6dfcbb0d91281d){:target='_blank_'}
 
