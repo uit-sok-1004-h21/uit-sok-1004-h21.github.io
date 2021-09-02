@@ -16,3 +16,14 @@ På nettsiden [Global Warming](https://www.drroyspencer.com/latest-global-temper
 Målet vårt er å vise temperaturen globalt (kolonne 3: "Global") fra disse fire kildene i samme figur, samt at vi beregner gjennomsnittet av disse fire målingene per måned. Vi kan kanskje også driste oss til å beregne et glidende gjennomsnitt, slik som i figuren på nettsiden.
 
 Tips: Når du "sjekker" hvordan dataene ser ut, se spesielt på slutten av hver fil, ikke alt er "data". Vi må dermed rydde i fila før vi går videre. 
+
+[Last ned R kode fra Forelesning 4](global_temp_F4.R){:target='_blank_'} 
+
+[R kode fra Forelesning 4 på github](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/global_temp_F4.R){:target='_blank_'}
+
+[myMediasite Video Forelesning 4 del 1](){:target='_blank_'}
+
+[myMediasite Video Forelesning 4 del 2](){:target='_blank_'}
+
+[myMediasite Video Forelesning 4 del 3](){:target='_blank_'}
+
