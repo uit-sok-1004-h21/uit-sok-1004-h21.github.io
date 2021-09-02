@@ -21,7 +21,7 @@ Tips: Når du "sjekker" hvordan dataene ser ut, se spesielt på slutten av hver 
 
 [R kode fra Forelesning 4 på github](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/global_temp_F4.R){:target='_blank_'}
 
-[myMediasite Video Forelesning 4 del 1](){:target='_blank_'}
+[myMediasite Video Forelesning 4 del 1](https://mediasite.uit.no/Mediasite/Play/78d1c7661e3743d7b017480e4d313e181d){:target='_blank_'}
 
 [myMediasite Video Forelesning 4 del 2](){:target='_blank_'}
 
