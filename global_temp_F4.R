@@ -24,6 +24,10 @@ df_lower[ , "Year"]
 # subsetter, ver 1
 # rekke 1 til 512 er det magiske intervallet vi er ute etter
 df_lower <- df_lower[1:512 , ]
+rm(df_lower)
+
+# leser data på nytt
+df_lower <- read_table2("https://www.nsstc.uah.edu/data/msu/v6.0/tlt/uahncdc_lt_6.0.txt")
 
 # prøver å gjøre koden dynamisk
 # hva er spesielt med kolonne 1, "Year" der vi går til kommentarer?
