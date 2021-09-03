@@ -228,7 +228,7 @@ location_list <- list("Lower Troposphere","Mid-Troposphere", "Tropopause", "Lowe
 dframe2 <- map2(url_list, location_list, scrape_bake)
 
 library(plyr)
-# mer at denne appen maskerer dplyr sin rename funksjon
+# merk at denne appen maskerer dplyr sin rename funksjon
 
 dframe2 <- ldply(dframe2, data.frame)
 
