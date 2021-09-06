@@ -7,7 +7,7 @@
 |F2  | RStudio IDE  | ØM | [Ressursside](ressurser_F2.md){:target='_blank_'} |
 |F3   | RStudio projects, reproduserbarhet og tidyverse  | ØM     | [Ressursside](ressurser_F3.md){:target='_blank_'}  |
 |F4    | Plots, Markdown og Git | ØM | [Ressursside](ressurser_F4.md){:target='_blank_'} |
-|F5   | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}  |
+|F5   | Bruttonasjonalprodukt (BNP)    | DC       | [Ressursside](ressurser_F5.md){:target='_blank_'}  |
 |F6     | Markedsøkonomien  | DC | [Core Kap. 1](CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target='_blank_'}   |
 |F7 | Case 1: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
 |F8   | Case 2: Årlig bruttonasjonalprodukt 1865-2011  | ØM  |  [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
