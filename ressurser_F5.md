@@ -2,7 +2,7 @@
 
 [Forelesningsnotater](/forelesninger/SOK-1004 Forelesning 5.pdf){:target="_blank"}
 
-[Core Kap. 1](/CORE/The Economy_Unit 1 The capitalist revolution.pdf){:target="_blank"}
+[Core Kap. 1](/CORE/The Economy_ Unit 1 The capitalist revolution.pdf){:target="_blank"}
 
 [BNP Norge](https://www.ssb.no/nasjonalregnskap-og-konjunkturer/nasjonalregnskap/statistikk/nasjonalregnskap){:target="_blank"}
 
