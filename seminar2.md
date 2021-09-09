@@ -17,8 +17,7 @@ Les [Core kap. 5.12](https://www.core-econ.org/the-economy/book/text/05.html#512
 
 # Mappeoppgave
 
-Skriftlig innlevering. 2 sider, marg: 2,5 cm, linjeavstand: 1,5, font: 12 pt (Times New Roman)
-Font: Times New Roman (figurer, tabeller kommer i tillegg).
+Skriftlig innlevering. Maks 2 sider, marg: 2,5 cm, linjeavstand: 1,5, font: 12 pt, Times New Roman (figurer, tabeller kommer i tillegg).
 
 Kan skrives i grupper på maksimalt 3. Leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target='_blank_'}. NB Det er automatisk plagiatkontroll i Wiseflow, og da er det viktig at dere angir direkte sitater på riktig måte, samt inkluderer kilden i referanselista.
 
