@@ -486,17 +486,14 @@ tabell</code></pre>
 <p>Deretter erstatter vi mellomrom som tusenskilletegn for BNP, og tomme tegn (&quot;“) for endringene med manglende observasjon (<span class="math inline">\(NA\)</span>). Til sist erstatter vi komma (”,“) med punktum (”.&quot;) som desimalskilletegn og koder alle variabler som er tegn om til numeriske verdier.</p>
 <pre class="r"><code>tabell &lt;-
   tabell %&gt;% 
-  mutate(BNP=str_replace(BNP, &quot; &quot;, &quot;&quot;),
+  mutate(BNP=str_replace_all(BNP, &quot; &quot;, &quot;&quot;),
          BNP_endring=na_if(BNP_endring, &quot;&quot;),
          BNP_percap_endring=na_if(BNP_percap_endring, &quot;&quot;),
          BNP_endring=str_replace(BNP_endring, &quot;,&quot;,&quot;.&quot;),
-         BNP_percap_endring=str_replace_all(BNP_percap_endring, &quot;,&quot;,&quot;.&quot;)) %&gt;% 
-  mutate_if(is.character, as.numeric)</code></pre>
-<pre><code>Warning: Problem with `mutate()` input `BNP`.
-ℹ NAs introduced by coercion
-ℹ Input `BNP` is `.Primitive(&quot;as.double&quot;)(BNP)`.</code></pre>
-<pre><code>Warning in mask$eval_all_mutate(dots[[i]]): NAs introduced by coercion</code></pre>
-<pre class="r"><code>tabell</code></pre>
+         BNP_percap_endring=str_replace(BNP_percap_endring, &quot;,&quot;,&quot;.&quot;)) %&gt;% 
+  mutate_if(is.character, as.numeric)
+
+tabell</code></pre>
 <pre><code># A tibble: 147 x 5
       År   BNP BNP_endring BNP_percap BNP_percap_endring
    &lt;int&gt; &lt;dbl&gt;       &lt;dbl&gt;      &lt;int&gt;              &lt;dbl&gt;
