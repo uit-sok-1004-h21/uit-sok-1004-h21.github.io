@@ -1,6 +1,6 @@
 # KPMG Seminar 2021
 ## 27. september 2021 kl. 12.30-14.30
-## Sted: Perpektivet ved Handelshøgskolen
+## Sted: Perspektivet ved Handelshøgskolen
 
 ### Program
 
