@@ -12,7 +12,7 @@
 |F7 | Case 1: Bruttonasjonalprodukt - BNP | ØM       | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
 |F8   | Case 2: Årlig bruttonasjonalprodukt 1865-2011  | ØM  |  [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
 |F9    | Grunnleggende begreper i samfunnsøkonomi           | DC | [Ressursside](ressurser_F9.md){:target='_blank_'}   |
-|F10   | Økonomisk vekst og befolkningsvekst | DC | [Core Kap. 2](CORE/The Economy_ Unit 2 Technology, population, and growth.pdf){:target='_blank_'}   |
+|F10   | Økonomisk vekst, befolkningsvekst og produktivitet | DC | [Core Kap. 2](CORE/The Economy_ Unit 2 Technology, population, and growth.pdf){:target='_blank_'}   |
 |F11  | Case 3: Analyse av sammenhengen mellom økonomisk aktivitet (BNP), CO2-utslipp og global temperatur  | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}  |
 |F12   | Case 4: Deskriptiv analyse av global handel           | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
 |F13 | Produksjon  | DC | [Core Kap. 3](CORE/The Economy_ Unit 3 Scarcity, work, and choice.pdf){:target='_blank_'}  | 
