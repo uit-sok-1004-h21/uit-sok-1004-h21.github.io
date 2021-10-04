@@ -32,7 +32,7 @@ d) Hvordan endres den optimale kombinasjon av L og K dersom r økes til 3? Forkl
 
 ### Oppgave 3
 
-Les [Kap. 1](){:target='_blank_'} i NOU 2015:1 "Produktivitet - grunnlag for vekst og velferd".    
+Les [Kap. 1](NOU 2015_ 1 kap 1 (prod1).pdf){:target='_blank_'} i NOU 2015:1 "Produktivitet - grunnlag for vekst og velferd".    
 a) Hva er bakgrunnen for at Produktivitetskommisjonen ble opprettet i 2014?      
 b) Forklar innholdet i Figur 1 og Tabell 1.1 og Tabell 1.2.   
 c) Hvorfor er det et problem for Norge at andre land har lav produktivitetsvekst?   
@@ -49,6 +49,6 @@ Skriftlig innlevering. Maks 2 sider, marg: 2,5 cm, linjeavstand: 1,5, font: 12 p
 Kan skrives i grupper på maksimalt 3. Leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target='_blank_'}. NB Det er automatisk plagiatkontroll i Wiseflow, og da er det viktig at dere angir direkte sitater på riktig måte, samt inkluderer kilden i referanselista.
 
 **Oppgave**   
-1. Les [Kap. 1](){:target='_blank_'} i NOU 2015:1 "Produktivitet - grunnlag for vekst og velferd". Forklar kort hva kommisjonen mener er de største utfordringene for fremtidig produktivitetsvekst i Norge.   
+1. Les [Kap. 1](NOU 2015_ 1 kap 1 (prod1).pdf){:target='_blank_'} i NOU 2015:1 "Produktivitet - grunnlag for vekst og velferd". Forklar kort hva kommisjonen mener er de største utfordringene for fremtidig produktivitetsvekst i Norge.   
 2. Les [Kap. 5](Meld. St. 1 (2020–2021) kap 5.pdf){:target='_blank_'} i Meld. St. 1 Nasjonalbudsjettet 2021. Hvilke politikk vil myndighetene føre for å sikre økt produktivitet i Norge fremover?   
 3. Hvilke av disse tiltakene er mest egnet for å imøtekomme utfordringene som du identifiserte i deloppgave 1? Begrunn ditt svar.
