@@ -1,18 +1,45 @@
-## SOK-1004 Økonomiske emner og programmering
+# SOK-1004 Økonomiske emner og programmering
 
-# Oppgaver til Seminar 4
+## Oppgaver til Seminar 4
 
-Les [s. 21-24](NB 21 s21-14.pdf){:target='_blank_'} i Meld. St. 1: Nasjonalbudsjettet 2021
-1.	Hva måler Bruttonasjonalprodukt (BNP)? Hvilke komponenter består den av?
-2.	Hva måler BNP Fastlands-Norge? Hva er utelatt av sektorer i dette begrepet, og hvorfor?
-3.	Er BNP per innbygger et godt mål for velstand i et land? Hvorfor/hvorfor ikke?
+### Oppgave 1
+En bedrift kan velge mellom fire produksjonsteknologier som bruker forskjellige kombinasjoner av arbeidskraft (L) og kapital (K) for å produsere et produkt. Tabellen under angir hvor mange enheter av hver produksjonsfaktor som trenges av teknologi A, B, og C for å produsere én enhet ferdigprodukt
 
-Les [Core kap. 5.12](https://www.core-econ.org/the-economy/book/text/05.html#512-measuring-economic-inequality){:target='_blank_'}, [kap 2.7](NB 2021 kap 2_7.pdf){:target='_blank_'} i Meld. St. 1: Nasjonalbudsjettet 2021, og [kap 2.3.1](Meld. St. 13 (2018–2019) kap 2_3_1.pdf){:target='_blank_'} i Meld St 13 (2018-2019) Muligheter for alle
+| Teknologi   | Arbeidskraft (L)   | Kapital (K)  | 
+|----------------|----------------|-----------|
+|A   | X                        | 1      | 
+|B  | 2  | 3 | 
+|C   | 5  | 2     | 
 
-4. Forklar hvordan en Lorenz kurve og Gini koeffisient (indeks) brukes som mål for ulikhet i inntektsfordelingen. Hvordan ser Lorenz kurven ut for Norge?
-5. Hva viser Figur 2.12 i Meld. St. 1: Nasjonalbudsjettet 2021 om utviklingen av inntektsfordelingen i Norge fra 1995?
-6. I Figur 2.12 hvordan forklarer du forskjellen i Gini-indeksen når man legger til grunn inntekt før og etter overføringer og skatter. Gir Gini indeksen et godt bilde av inntektsulikhet i et land, eller er det andre faktorer man bør ta hensyn til?
-7. Figur 2.5 i Meld St 13 (2018-2019) gir et bilde på inntektsulikheten i Norge sammenliknet med andre land. Hvordan ligger Norge an i denne internasjonale sammenlikningen, og hvordan forklarer du dette?
+hvor X>0.
+
+a) Tegn en figur som viser teknologimulighetene til bedriften.    
+b) For hvilke verdier av X er teknologi B og C dominert av A?    
+c) La prisen på én enhet med arbeidskraft være w, og prisen på én enhet kapital være r. Skriv en generell likning som viser produksjonskostnader.    
+d) Anta videre at w=4, r=8 og tegn isokostnadslinjer som går gjennom B og C. Hvilken av teknologi B og C velger bedriften som vil minimere produksjonskostnader? Forklar intuisjonen bak ditt svar.    
+e) Regjeringen åpner opp for at bedriften kan ansette arbeidere fra utlandet, og dette gjør at w faller til w=2. Endrer dette bedriftens valg av teknologi sammenliknet med (d)? Forklar.   
+f) I deloppgave (d) og (e) hadde du mye informasjon. Anta nå at du ikke vet verdiene til w og r, men du har informasjon om den relative prisen w/r. Hvilken teknologi velges dersom (i) w/r = 0,5, og (ii) w/r = 0,25. Forklar.   
+g) For hvilke verdier av w/r vil en kostnadsminimerende bedrift velge teknologi C over teknologi B?   
+h) Anta at bedriften bruker teknologi C og at w/r=0,25. Gitt at teknologi A ikke blir valgt, hva kan du konkludere om størrelsen på X?   
+i) Du vet at w/r<1/3, men kjenner ikke til dens eksakte verdi; du vet heller ikke verdien av X. Tegn en figur som kan hjelpe bedriften med å bestemme seg for valg av kostnadsminimerende teknologi i dette tilfellet. (Hint. Bruk tidligere svar til å utelukke B eller C, og sammenlikn "vinneren" med A. Tegn en figur med w/r på den vertikale aksen, og X på den horisontale aksen).  
+
+### Oppgave 2
+
+a) En Cobb-Douglas produktfunksjon viser hvordan produsert mengde kobles til produksjonsfaktorer. Med to faktorer (arbeidskraft, L, og kapital, K) kan denne sammenhengen vises i 3 dimensjoner. [Her]() finner du et eksempel som du kan kjøre i RStudio. For å vise produktfunksjonen i 2 dimensjoner kan man holde produsert mengde konstant, og se på hvilke kombinasjoner av L og K som gir nøyaktig dette produksjonsnivået. I RStudio kjør denne [koden](). Forklar det som vises på figuren. (Disse kurvene heter produksjonsisokvanter).      
+b) Anta nå at prisen på arbeidskraft (w) er 2, og prisen på kapital (r) er 1. Tegn isokostnadskurver i figuren som gjenspeiler denne relative prisen på produksjonsfaktorene.     
+c) Kan du bruke figuren til å finne den kostnadsminimerende kombinasjon av L og K for å produsere 40 enheter ferdigprodukt? (Hint. Skriv kode som plotter en rett linje oppå produksjonsisokvantene. Som produksjonskostnad kan du prøve for eksempel 19,8, 22,6, og 25,2).   
+d) Hvordan endres den optimale kombinasjon av L og K dersom r økes til 3? Forklar intuisjonen bak resultatet.
+
+### Oppgave 3
+
+Les [Kap. 1](){:target='_blank_'} i NOU 2015:1 "Produktivitet - grunnlag for vekst og velferd".    
+a) Hva er bakgrunnen for at Produktivitetskommisjonen ble opprettet i 2014?      
+b) Forklar innholdet i Figur 1 og Tabell 1.1 og Tabell 1.2.   
+c) Hvorfor er det et problem for Norge at andre land har lav produktivitetsvekst?   
+d) Hva sier kommisjonen om de største utfordringene for fremtidig produktivitetsvekst?    
+
+
+
 
 
 # Mappeoppgave
@@ -21,5 +48,7 @@ Skriftlig innlevering. Maks 2 sider, marg: 2,5 cm, linjeavstand: 1,5, font: 12 p
 
 Kan skrives i grupper på maksimalt 3. Leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target='_blank_'}. NB Det er automatisk plagiatkontroll i Wiseflow, og da er det viktig at dere angir direkte sitater på riktig måte, samt inkluderer kilden i referanselista.
 
-**Oppgave** 
-1.
+**Oppgave**   
+1. Les [Kap. 1](){:target='_blank_'} i NOU 2015:1 "Produktivitet - grunnlag for vekst og velferd". Forklar kort hva kommisjonen mener er de største utfordringene for fremtidig produktivitetsvekst i Norge.   
+2. Les [Kap. 5](){:target='_blank_'} i Meld. St. 1 Nasjonalbudsjettet 2021. Hvilke politikk vil myndighetene føre for å sikre økt produktivitet i Norge fremover?   
+3. Hvilke av disse tiltakene er mest egnet for å imøtekomme utfordringene som du identifiserte i deloppgave 1? Begrunn ditt svar.
