@@ -14,7 +14,7 @@
 |Mappeoppgave 1   | Oppgaver fra Seminar 2                       | 17/09 kl. 16.00       | [oppgave](seminar2.md){:target="_blank"}    |
 |Arbeidskrav 3   | Case 1                        | 22/09 kl. 16.00       |    |
 |Arbeidskrav 4   | Case 2                        | 28/09 kl. 16.00       |    |
-|Mappeoppgave 2   | Oppgaver fra Seminar 4                        | 18/10 kl. 16.00       | kommer   |
+|Mappeoppgave 2   | Oppgaver fra Seminar 4                        | 18/10 kl. 16.00       | [oppgave](seminar4.md)   |
 |Arbeidskrav 5   | Case 3 og 4                       | 20/10 kl. 16.00       |    |
 |Mappeoppgave 3   | Oppgaver fra Seminar 6                       | 08/11 kl. 16.00       | kommer   |
 |Arbeidskrav 6   | Case 5                        | 08/11 kl. 16.00       |    |
