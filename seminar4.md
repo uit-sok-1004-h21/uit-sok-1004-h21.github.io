@@ -50,5 +50,5 @@ Kan skrives i grupper på maksimalt 3. Leveres i [Wiseflow](https://europe.wisef
 
 **Oppgave**   
 1. Les [Kap. 1](){:target='_blank_'} i NOU 2015:1 "Produktivitet - grunnlag for vekst og velferd". Forklar kort hva kommisjonen mener er de største utfordringene for fremtidig produktivitetsvekst i Norge.   
-2. Les [Kap. 5](){:target='_blank_'} i Meld. St. 1 Nasjonalbudsjettet 2021. Hvilke politikk vil myndighetene føre for å sikre økt produktivitet i Norge fremover?   
+2. Les [Kap. 5](Meld. St. 1 (2020–2021) kap 5.pdf){:target='_blank_'} i Meld. St. 1 Nasjonalbudsjettet 2021. Hvilke politikk vil myndighetene føre for å sikre økt produktivitet i Norge fremover?   
 3. Hvilke av disse tiltakene er mest egnet for å imøtekomme utfordringene som du identifiserte i deloppgave 1? Begrunn ditt svar.
