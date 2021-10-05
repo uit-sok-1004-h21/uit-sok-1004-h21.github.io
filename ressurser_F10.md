@@ -6,4 +6,5 @@
 
 - R kode 1. [Teknologisk fremgang](tek fremskritt 1.R)
 - R kode 2. [Teknologisk fremgang](tek fremskritt 2.R)
-- 
+- R kode 3. [Gjennomsnitts- og grenseproduktivitet](MP og AP.R)
+- R kode 4. [Cobb-Douglas med 2 produksjoinsfaktorer](cobb douglas med 2 faktorer.R)
