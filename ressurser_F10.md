@@ -2,7 +2,7 @@
 
 - [Forelesningsnotater](/forelesninger/SOK-1004 Forelesning 10.pdf){:target="_blank"}
 
-- [Forelesningsnotater med matte](/forelesninger/SOK-1004 Forelesning 10 med notater.pdf){:target="_blank"}
+- [Forelesningsnotater med matte](SOK-1004 Forelesning 10 med notater.pdf){:target="_blank"}
 
 - [Core Kap. 2](https://www.core-econ.org/the-economy/book/text/02.html){:target="_blank"}
 
