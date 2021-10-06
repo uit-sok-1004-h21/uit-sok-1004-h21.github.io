@@ -2,6 +2,8 @@
 
 - [Forelesningsnotater](/forelesninger/SOK-1004 Forelesning 10.pdf){:target="_blank"}
 
+- [Forelesningsnotater med notater](/forelesninger/SOK-1004 Forelesning 10 med notater.pdf){:target="_blank"}
+
 - [Core Kap. 2](https://www.core-econ.org/the-economy/book/text/02.html){:target="_blank"}
 
 - R kode 1. [Teknologisk fremgang](tek fremskritt 1.R)
