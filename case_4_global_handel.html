@@ -471,7 +471,7 @@ exports</code></pre>
  9 BX.FOD.AGRI.CD    Food exports excluding fish (FAO, current US$)   
 10 BX.GSR.AGRI.CD    Total agricultural exports (FAO, current US$)    
 # … with 140 more rows</code></pre>
-<p>Her er det hele 150 indikatorer som inneholder <code>exports</code> i beskrivelsen. Denne gangen ønsker å benytte oss av indikatoren <a href="%22https://data.worldbank.org/indicator/NE.EXP.GNFS.CD%22" target="blank">“Exports of goods and services (current US$)”</a>. Denne har forkortelsen <em>NE.EXP.GNFS.CD</em>. Følgende informasjon er tilgjengelig om denne tabellen.</p>
+<p>Her er det hele 150 indikatorer som inneholder <code>exports</code> i beskrivelsen. Denne gangen ønsker å benytte oss av indikatoren <a href="https://data.worldbank.org/indicator/NE.EXP.GNFS.CD" target="blank">“Exports of goods and services (current US$)”</a>. Denne har forkortelsen <em>NE.EXP.GNFS.CD</em>. Følgende informasjon er tilgjengelig om denne tabellen.</p>
 <pre><code>Exports of goods and services represent the value of all goods and other market services provided to the rest of the world. They include the value of merchandise, freight, insurance, transport, travel, royalties, license fees, and other services, such as communication, construction, financial, information, business, personal, and government services. They exclude compensation of employees and investment income (formerly called factor services) and transfer payments. Data are in current U.S. dollars.</code></pre>
 <p>Vi lagrer tabellen i objektet <code>df_export</code>.</p>
 <pre class="r"><code>df_export &lt;- WDI(indicator = &quot;NE.EXP.GNFS.CD&quot;, country = &quot;all&quot;)
