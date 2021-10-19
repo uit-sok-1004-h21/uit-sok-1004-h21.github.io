@@ -19,7 +19,6 @@
 |Mappeoppgave 3   | Oppgaver fra Seminar 6                       | 08/11 kl. 16.00       | kommer   |
 |Arbeidskrav 6   | Case 5                        | 08/11 kl. 16.00       |    |
 |Arbeidskrav 7   | Case 6                        | 15/11 kl. 16.00       |    |
-|Arbeidskrav 8   | Muntlig presentasjon (opptak) av prosjektoppgaven                        | 23/11 kl. 16.00       |    |
-|Mappeoppgave 4   |Skriftlig prosjektoppgave                      | 15/12 kl. 16.00       |    |
+|Mappeoppgave 4   |Skriftlig prosjektoppgave                      | 15/12 kl. 16.00       |[Oppgave](SOK-1004-H21-prosjektoppgave kull 2021.pdf){:target="_blank"}    |
 
 
