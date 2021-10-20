@@ -17,7 +17,6 @@
 |Mappeoppgave 2   | Oppgaver fra Seminar 4                        | 18/10 kl. 16.00       | [oppgave](seminar4.md){:target="_blank"}    |
 |Arbeidskrav 5   | Case 3 og 4                       | 20/10 kl. 16.00       |    |
 |Arbeidskrav 6   | Case 5                        | 08/11 kl. 16.00       |    |
-|Arbeidskrav 7   | Case 6                        | 15/11 kl. 16.00       |    |
 |Mappeoppgave 3   | Oppgaver fra Seminar 6                       | 26/11 kl. 16.00       | kommer   |
 |Mappeoppgave 4   |Skriftlig prosjektoppgave                      | 15/12 kl. 16.00       |[Oppgave](SOK-1004-H21-prosjektoppgave kull 2021.pdf){:target="_blank"}    |
 
