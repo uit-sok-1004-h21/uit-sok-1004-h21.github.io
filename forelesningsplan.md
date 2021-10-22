@@ -15,7 +15,7 @@
 |F10   | Økonomisk vekst, befolkningsvekst og produktivitet | DC | [Ressursside](ressurser_F10.md){:target='_blank_'}   |
 |F11  | Case 3: Analyse av sammenhengen mellom økonomisk aktivitet (BNP), CO2-utslipp og global temperatur  | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'}  |
 |F12   | Case 4: Deskriptiv analyse av global handel           | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} |
-|F13 | Arbeid vs. Fritid  | DC | [Ressursside](ressurser_F13.md){:target='_blank_'}   | 
+|F13 | Lønn vs. Fritid  | DC | [Ressursside](ressurser_F13.md){:target='_blank_'}   | 
 |F14  | Arbeidsinnsats og inntekt  | DC         | [Core Kap. 3](CORE/The Economy_ Unit 3 Scarcity, work, and choice.pdf){:target='_blank_'}  |
 |F15    | Case 5: Deskriptiv analyse av prisdata fra SSB (KPI)   | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} | 
 |F16   | Gjennomgang av prosjektoppgaven      | ØM       |   |
