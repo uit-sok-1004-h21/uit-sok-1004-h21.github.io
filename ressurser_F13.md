@@ -4,4 +4,5 @@
 
 - Forelesningsnotater med matte (kommer etter forelesningen)
 
+
 - [Core Kap. 3](https://www.core-econ.org/the-economy/book/text/03.html){:target="_blank"}
