@@ -4,6 +4,9 @@
 
 ### Oppgave 1
 
+Se på [koden](sem6_oppg_1.md){:target='_blank_'} som vi tidligere har brukt til å se på bedriftens tilpasning under kostnadsminimering. Denne koden skal vi nå tilpasse til å gjelder konsumentens tilpasning under knapphet.
+
+a) Konsumenten har preferanser over fritid (t) og konsum (k) uttrykt ved nyttefunksjon ${U(t,k)=At^0,5k^0,5}$. 
 
 ### Oppgave 2
 
