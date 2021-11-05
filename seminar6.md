@@ -1,4 +1,4 @@
-{% include top-box.html %} 
+
 
 # SOK-1004 Økonomiske emner og programmering
 
