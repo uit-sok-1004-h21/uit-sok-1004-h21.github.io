@@ -1,3 +1,5 @@
+{% include math-script.html  %} 
+
 # Plotte nivåkurver til Cobb-Douglas produktfunksjon med produksjonsfaktorer 
 # arbeidskraft (L) og kapital (K)
 # y=A*L^b*K^(1-b)
