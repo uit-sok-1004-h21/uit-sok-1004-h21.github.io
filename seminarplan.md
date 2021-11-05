@@ -11,7 +11,7 @@
 |   S3|  Gjennomgang av Case 1 og 2    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank'}   |
 |  S4  | Teknologi og vekst    | DC | [seminar 4](seminar4.md){:target='_blank'} <br> [Løsninger](seminar 4 løsninger.pdf){:target='_blank'} <br> [R kode oppgave 2](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/sem%204%20oppgave%202%20solution%20ladd.R){:target='_blank'}   |
 | S5  |  Gjennomgang av Case 3 og 4    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank'}    |
-|  S6 |  Arbeid og inntekt   | DC | [seminar 6](seminar6.md){:target='_blank'}    |
+|  S6 |  Arbeid og inntekt   | DC | {:target='_blank'}    |
 |  S7 |  Gjennomgang av Case 5    | Cem Olcan | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank'}   |
 
 
