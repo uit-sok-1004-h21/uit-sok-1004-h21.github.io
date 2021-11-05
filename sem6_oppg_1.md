@@ -1,4 +1,4 @@
-{% include math-script.html  %} 
+
 
 # Plotte nivåkurver til Cobb-Douglas produktfunksjon med produksjonsfaktorer 
 # arbeidskraft (L) og kapital (K)
