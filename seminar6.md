@@ -1,4 +1,4 @@
-
+{% include math-script.html  %} 
 
 # SOK-1004 Økonomiske emner og programmering
 
