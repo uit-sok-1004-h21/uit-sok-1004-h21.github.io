@@ -6,7 +6,7 @@
 
 ### Oppgave 1
 
-Se på [koden](sem6_oppg_1.md){:target='_blank_'} som vi tidligere har brukt til å se på bedriftens tilpasning under kostnadsminimering. Denne koden skal vi nå tilpasse til å gjelde konsumentens tilpasning under knapphet.   
+Se på [koden](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/sem%204%20oppgave%202%20solution%20ladd.R){:target='_blank_'} som vi tidligere har brukt til å se på bedriftens tilpasning under kostnadsminimering. Denne koden skal vi nå tilpasse til å gjelde konsumentens tilpasning under knapphet.   
 
 Konsumenten har preferanser over fritid (t) og konsum (k) gitt ved nyttefunksjon $U(t,k)=t^{0,5}k^{0,5}$.   
 
