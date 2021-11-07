@@ -31,19 +31,19 @@ g) Resten av den totale endringen skyldes substitusjonseffekten $t_1-t_2$. Hvor 
 
 
 
-### Oppgave 3
+### Oppgave 3  
+
+Hvorfor kan det være nyttig å skille mellom inntekts- og substitusjonseffekten av en (relativ) prisendring?   
 
 
+# Mappeoppgave 3  
 
-
-
-
-
-# Mappeoppgave 3
-
-Skriftlig innlevering. Maks 2 sider, marg: 2,5 cm, linjeavstand: 1,5, font: 12 pt, Times New Roman (figurer, tabeller kommer i tillegg).
+Skriftlig innlevering. Maks 2 sider, marg: 2,5 cm, linjeavstand: 1,5, font: 12 pt, Times New Roman (figurer, tabeller kommer i tillegg).  
 
 Kan skrives i grupper på maksimalt 3. Leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target='_blank_'}. NB Det er automatisk plagiatkontroll i Wiseflow, og da er det viktig at dere angir direkte sitater på riktig måte, samt inkluderer kilden i referanselista.
 
 **Oppgave**   
-1. 
+1. I den senere tid har strømpriser økt vesentlig i noen deler av landet. I [Prop 8s (2021-2022)](Prop 8s.pdf){:target='_blank_'} foreslår regjeringen et tiltak for å kompensere for dette. Beskriv kort dette tiltaket.   
+2. Tenk at det finnes en representativ husholdning med inntekt B, of at denne budsjetten fordeles mellom innkjøp av strøm (til pris p) og andre konsumgoder (til pris q). Nytten til husholdningen er gitt ved $U(s,k)$ hvor s er strøm og k er andre konsumgoder. Vis det optimale valget til husholdningen i en figur.   
+3. Anta nå at prisen på strøm økes til P>p. Vi den nye tilpasningen til husholdningen, og vis intekts- og substitusjonseffekten grafisk.   
+4. Forslaget fra regjeringen er å tildele hver husholdning et grunnbeløp på 2 950 kr. Hva tilsvarer ca. dette beløpet i figuren fra del 3.?
