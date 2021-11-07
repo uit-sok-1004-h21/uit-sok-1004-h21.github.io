@@ -20,7 +20,7 @@
 |F15    | Case 5: Deskriptiv analyse av prisdata fra SSB (KPI)   | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} | 
 |F16   | Gjennomgang av prosjektoppgaven      | ØM       |   |
 |F17  | Individet og samfunnet        | DC         | [Core Kap. 4](CORE/The Economy_ Unit 4 Social interactions.pdf){:target='_blank_'}   |
-|F18  |   TBA                                      | DC         |   |
+
 
 **Forelesning 1 finner sted i TEO Hus 1 AUD 1.  
 Alle andre forelesninger finner sted i TEO Hus 1 AUD 2.**
