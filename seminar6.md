@@ -10,6 +10,12 @@ Se på [koden](sem6_oppg_1.md){:target='_blank_'} som vi tidligere har brukt til
 
 Konsumenten har preferanser over fritid (t) og konsum (k) uttrykt ved nyttefunksjon $U(t,k)=At^{0,5}k^{0,5}$.
 
+a) Tegn indiifferenskurver for denne nyttefunksjon. Gi en fornuftig tittel til figuren, og tilpass benevning på aksene (aksen på fritid går fra 0-24). Fjern også tallene som spesifiserer nivået på kurvene (labels=FALSE i plotFun). Forklar hva disse indiferenskurver forteller om konsumentens preferanser.
+b) Hva måler konsumentens marginale substitusjonsbrøk (MRS), og hvor finner vi dette i figuren?
+c) Vis at konsumentens MRS er gitt ved $MRS=frac{k/t}$.
+d) Med ei timelønn på w, er konsumentens budsjettbetingelse gitt ved $k=w(24-t)$. Tegn budsjettbetingelse for $w=2$ og $w=3$.
+e) Hva er konsumentens marginale transformasjonsrate (MRT)?
+
 ### Oppgave 2
 
 
