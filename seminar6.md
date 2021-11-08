@@ -10,7 +10,7 @@ Se på [koden](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/bl
 
 Konsumenten har preferanser over fritid (t) og konsum (k) gitt ved nyttefunksjon $U(t,k)=t^{0,5}k^{0,5}$.   
 
-a) Tegn indiifferenskurver for denne nyttefunksjon som tilsvarer nyttenivå 12, 17 og 21 (levels=c(12,17,21) i plotFun). Gi en fornuftig tittel til figuren, og tilpass benevning på aksene (aksen på fritid går fra 0-24, og la aksen for konsum gå fra 0-100). Fjern også tallene som spesifiserer nivået på kurvene (labels=FALSE i plotFun). Forklar hva disse indifferenskurvene forteller om konsumentens preferanser.   
+a) Tegn indiifferenskurver for denne nyttefunksjon som tilsvarer nyttenivå 12, 17 og 20,8 (levels=c(12,17,20.8) i plotFun). Gi en fornuftig tittel til figuren, og tilpass benevning på aksene (aksen på fritid går fra 0-24, og la aksen for konsum gå fra 0-100). Fjern også tallene som spesifiserer nivået på kurvene (labels=FALSE i plotFun). Forklar hva disse indifferenskurvene forteller om konsumentens preferanser.   
 b) Hva måler konsumentens marginale substitusjonsbrøk (MRS), og hvor finner vi dette i figuren?   
 c) Vis (ved utregning) at konsumentens MRS er gitt ved $MRS=\frac{k}{t}\$.   
 d) Med ei timelønn på w, er konsumentens budsjettbetingelse gitt ved $k=w(24-t)$. Tegn budsjettbetingelse for $w=2$ og $w=3$.    
