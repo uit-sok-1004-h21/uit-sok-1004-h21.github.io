@@ -8,7 +8,7 @@
 
 Se på [koden](https://github.com/uit-sok-1004-h21/uit-sok-1004-h21.github.io/blob/main/sem%204%20oppgave%202%20solution%20ladd.R){:target='_blank_'} som vi tidligere har brukt til å se på bedriftens tilpasning under kostnadsminimering. Denne koden skal vi nå tilpasse til å gjelde konsumentens tilpasning under knapphet.   
 
-Konsumenten har preferanser over fritid (t) og konsum (k) gitt ved nyttefunksjon $U(t,k)=t^{0,5}k^{0,5}$.   
+Konsumenten har preferanser over fritid (t) og konsum (k) gitt ved nyttefunksjon $U(t,k)=t^{0.5}k^{0.5}$.   
 
 a) Tegn indiifferenskurver for denne nyttefunksjon som tilsvarer nyttenivå 12, 17 og 20,8 (levels=c(12,17,20.8) i plotFun). Gi en fornuftig tittel til figuren, og tilpass benevning på aksene (aksen på fritid går fra 0-24, og la aksen for konsum gå fra 0-100). Fjern også tallene som spesifiserer nivået på kurvene (labels=FALSE i plotFun). Forklar hva disse indifferenskurvene forteller om konsumentens preferanser.   
 b) Hva måler konsumentens marginale substitusjonsbrøk (MRS), og hvor finner vi dette i figuren?   
@@ -45,5 +45,5 @@ Kan skrives i grupper på maksimalt 3. Leveres i [Wiseflow](https://europe.wisef
 **Oppgave**   
 1. I den senere tid har strømpriser økt vesentlig i noen deler av landet. I [Prop 8s (2021-2022)](Prop 8s.pdf){:target='_blank_'} foreslår regjeringen et tiltak for å kompensere for dette. Beskriv kort dette tiltaket.   
 2. Tenk at det finnes en representativ husholdning med inntekt B, og at denne budsjetten fordeles mellom innkjøp av strøm (til pris p) og andre konsumgoder (til pris q). Nytten til husholdningen er gitt ved $U(s,k)$ hvor s er strøm og k er andre konsumgoder. Vis det optimale valget til husholdningen i en figur.   
-3. Anta nå at prisen på strøm økes til P>p. Vis den nye tilpasningen til husholdningen, og vis intekts- og substitusjonseffekten grafisk.   
+3. Anta nå at prisen på strøm økes til P>p. Vis den nye tilpasningen til husholdningen, og vis inntekts- og substitusjonseffekten grafisk.   
 4. Forslaget fra regjeringen er å tildele hver husholdning et grunnbeløp på 2 950 kr. Hva tilsvarer ca. dette beløpet i figuren fra del 3.?
