@@ -19,7 +19,7 @@
 |F14  | Arbeidsinnsats og inntekt  | DC         | [Ressursside](ressurser_F14.md){:target='_blank_'}   |
 |F15    | Case 5: Deskriptiv analyse av prisdata fra SSB (KPI)   | ØM | [lenker til case og R kode](lenker_til_case_og_R_kode.md){:target='_blank_'} | 
 |F16   | Gjennomgang av prosjektoppgaven      | ØM       |   |
-|F17  | Individet og samfunnet        | DC         | [Core Kap. 4](CORE/The Economy_ Unit 4 Social interactions.pdf){:target='_blank_'}   |
+|F17  | Individet og samfunnet        | DC         | [Ressursside](ressurser_F17.md){:target='_blank_'}  |
 
 
 **Forelesning 1 finner sted i TEO Hus 1 AUD 1.  
