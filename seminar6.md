@@ -15,8 +15,8 @@ b) Hva måler konsumentens marginale substitusjonsbrøk (MRS), og hvor finner vi
 c) Vis (ved utregning) at konsumentens MRS er gitt ved $MRS=\frac{k}{t}\$.   
 d) Med ei timelønn på w, er konsumentens budsjettbetingelse gitt ved $k=w(24-t)$. Tegn budsjettbetingelse for $w=2$ og $w=3$.    
 e) Vis konsumentens optimal tilpasning i figuren for begge lønnsnivå, og forklar hvorfor disse er optimale valg.   
-e) Hva er konsumentens marginale transformasjonsrate (MRT)?   
-f) I en optimal tilpasning er MRS=MRT. Gitt dette og budsjettbetingelsen, regn ut optimale valg av t og k. Vis hvordan de avhenger av w.
+f) Hva er konsumentens marginale transformasjonsrate (MRT)?   
+g) I en optimal tilpasning er MRS=MRT. Gitt dette og budsjettbetingelsen, regn ut optimale valg av t og k. Vis hvordan de avhenger av w.
 
 ### Oppgave 2   
 
